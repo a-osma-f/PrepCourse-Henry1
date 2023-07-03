@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-Este es un repositorio de prueba para el prepcourse de Henry
+Este ejercicio es una prueba de como crear y clonar un repositorio global a mi computador.
